@@ -1,2 +1,2 @@
 # nutri-triagem-hospitalar
-O NutriScale é uma ferramenta desenvolvida para otimizar o processo de triagem nutricional em ambientes hospitalares e ambulatoriais. O objetivo é reduzir o erro humano e agilizar a identificação de pacientes em risco nutricional.
+Aplicação para automação de triagem nutricional baseada em protocolos validados (NRS-2002 / MAN), focada na agilidade do atendimento em unidades de emergência.
